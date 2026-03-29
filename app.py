@@ -27,7 +27,7 @@ def recommend(movie):
     return recommended_movie_names,recommended_movie_posters
 
 # download file if missing
-file_id = "https://drive.google.com/file/d/1oWH84MVR1kgCtM6ZP-16tLcy3DVqhSZC/view?usp=sharing"
+file_id = "1oWH84MVR1kgCtM6ZP-16tLcy3DVqhSZC"
 file_path = "similarity.pkl"
 
 if not os.path.exists(file_path):
