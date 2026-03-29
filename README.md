@@ -1,2 +1,2 @@
-# movie-recommender-system-tmdb-dataset-main
-A system that suggests movies based on user preferences using the TMDB 5000 Movies Dataset.
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
